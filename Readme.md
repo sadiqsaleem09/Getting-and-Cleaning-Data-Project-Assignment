@@ -5,7 +5,10 @@ This repo contains two files:
 - UCI_HAR_Analysis.R file
 - CodeBook
 
-The R script utilizes the data from the study titled **Human Activity Recognition Using Smartphones Data Set**. The group developed Human Activity Recognition database from the recordings of 30 subjects performing activities of daily living (ADL) while carrying a waist-mounted smartphone with embedded inertial sensors.
+The R script utilizes the data from the study titled **Human Activity Recognition Using Smartphones Data Set**. (* Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012*)
+
+
+The group developed Human Activity Recognition database from the recordings of 30 subjects performing activities of daily living (ADL) while carrying a waist-mounted smartphone with embedded inertial sensors.
 
 Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone. 
 
