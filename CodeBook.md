@@ -71,4 +71,5 @@ The R script performs the following tasks:
 - A smaller dataset is extracted which only contains mean and standard deviation values
 - Column names are made meaningful. **mean()** is replaced with **mean**, while **std()** is replaced by **stddeviation**
 - Calculations for mean are performed for each subject and activity and stored in a new data table using the data.table tools
-- Finally the datatable is written into a text file in the working directory
+- Activity names are added to the final data 
+- Finally the data table is written into a text file in the working directory
