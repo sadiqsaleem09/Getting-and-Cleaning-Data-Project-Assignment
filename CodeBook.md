@@ -69,6 +69,6 @@ The R script performs the following tasks:
 - Subject and activity labels are respectively merged with the training and test data sets
 - The training and test sets are then merged
 - A smaller dataset is extracted which only contains mean and standard deviation values
-- Column names are made meaningful. **mean()** is replaced **mean**, while **std()** is replaced by **stddeviation**
-- Calculations for mean are performed for each subject and activity and stored in a new data table
+- Column names are made meaningful. **mean()** is replaced with **mean**, while **std()** is replaced by **stddeviation**
+- Calculations for mean are performed for each subject and activity and stored in a new data table using the data.table tools
 - Finally the datatable is written into a text file in the working directory

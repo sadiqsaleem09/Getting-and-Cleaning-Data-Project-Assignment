@@ -1,4 +1,5 @@
 
+# author: Sadiq Saleem Rehmani (sadiqsaleem09)
 
 # Make sure the UCI HAR Dataset folder is present in your working directory
 
